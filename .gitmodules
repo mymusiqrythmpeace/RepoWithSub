@@ -1,0 +1,12 @@
+[submodule "Proj01"]
+	path = Proj01
+	url = https://github.com/mymusiqrythmpeace/Proj01.git
+	branch = master
+[submodule "Proj02"]
+	path = Proj02
+	url = https://github.com/mymusiqrythmpeace/Proj02.git
+	branch = master
+[submodule "Proj03"]
+	path = Proj03
+	url = https://github.com/mymusiqrythmpeace/Proj03.git
+	branch = master
